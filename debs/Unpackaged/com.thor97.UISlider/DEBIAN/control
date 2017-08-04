@@ -1,0 +1,8 @@
+Package: com.thor97.UISlider
+Name: UISlider
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Color App
+Maintainer: thor97
+Author: thor97
+Section: Utilities
