@@ -1,9 +1,0 @@
-Package: com.thor97.LowPowerAlert
-Name: LowPowerAlert
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: Low Power Alert
-Maintainer: thor97
-Author: thor97
-Section: Tweaks

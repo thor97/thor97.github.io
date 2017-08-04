@@ -1,9 +1,9 @@
-Origin: thor97's Repo
-Label: thor97's Repo
+Origin: Decimation's Repo
+Label: Decimation's Repo
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: Decimation
 Architectures: iphoneos-arm
 Components: main
-Description: thor97's Repo
+Description: Decimation's Repo
 MD5Sum:
