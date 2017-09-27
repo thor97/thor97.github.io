@@ -1,14 +1,14 @@
-Package: (com.yourname.packagename)
-Name: (Tweak Name) 
-Version: (Version Number)
-Size: (Size in Bytes)
+Package: com.thor9797.LowPowerLockOff_0.0.1-1
+Name: LowPowerLockOff 
+Version: 0.0.1
+Size: 3,996
 Architecture: iphoneos-arm
-Description: (Tweak Description)
-Maintainer: (Name) <email@provider.com>
-Author: (Name) <email@provider.com>
-Section: (Cydia Section)
-MD5sum:
-SHA1sum:
-SHA256sum:
-Filename: debs//(Tweak Name).deb
+Description: Turns off that pesky dimmer on low power
+Maintainer: thor9797
+Author: thor9797
+Section: Tweaks
+MD5sum:06f9ee4bc5b308f03129a11ae1d4d9af
+SHA1sum:f61650480ca43cd63147ed72911f16415cf3ac53
+SHA256sum:a39c2223eda0c3beefa5bcc3b46d8bb88490d90f1102d79c728ec21f19879f05
+Filename: debs//com.thor9797.LowPowerLockOff_0.0.1-1+debug_iphoneos-arm.deb
 
